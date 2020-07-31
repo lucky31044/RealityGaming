@@ -17,11 +17,12 @@ CSRT tracker
 The main tradeoff between all these trackers is speed and accuracy ,i.e. the frame rate it can provide and accuracy it can track objects with.
 The one I used was MOSSE which provided a very high frame rate it can support upto 450fps and the second one is CSRT which has comparatively lower fps (25 fps) but gives higher accuracy for object tracking.
  
-Libraries used
-# opencv
-# pyautogui
+## Libraries used
+ 1. opencv
+ 2. pyautogui
 
 ##  links:
-Subway surfer https://www.kiloo.com/subway-surfers/
-Temple run https://m.plonga.com/adventure/Temple-Run-2-Online-Tablet
+1. Subway surfer https://www.kiloo.com/subway-surfers/
+
+2. Temple run https://m.plonga.com/adventure/Temple-Run-2-Online-Tablet
 
